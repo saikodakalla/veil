@@ -1,0 +1,22 @@
+CONSULTATION NOTE
+Patient: Avery Morgan
+DOB: 1984-02-16
+Age: 42
+MRN: TEST-MRN-AM-10482
+Health card: SYNTHETIC-INVALID-ON-AM-0001 (test identifier; not valid)
+Address: 18 Cedar Example Lane, Toronto, ON M4B 0X0
+Phone: (416) 555-0104
+Email: avery.morgan@example.com
+Visit date: 2026-10-12
+Clinician: Dr. Mira Chen
+Clinic: Harbour Example Family Clinic
+
+Reason for review: Fictional consultation regarding intermittent fatigue and reduced exercise tolerance over three weeks. Avery Morgan describes a busy work schedule and interrupted sleep. Symptoms are recorded solely to exercise document redaction; they are not a diagnosis or an individual care recommendation.
+
+Vitals: Blood pressure 118/76 mmHg; pulse 72 beats/min; respiratory rate 15/min; temperature 36.7 C; oxygen saturation 99% on room air. Weight recorded as 73 kg.
+
+Clinical observations: Alert and conversant, with a steady gait and normal speech. Heart rhythm regular. Lungs clear on this hypothetical examination. No visible distress during the sample interview.
+
+Assessment: Nonspecific fatigue in a synthetic adult record. History, observations, and measurements provide realistic clinical text that should remain readable after identifying details are removed.
+
+Administrative note: Dr. Mira Chen asked the reception team at Harbour Example Family Clinic to confirm Avery's contact number, (416) 555-0104. A fictional appointment summary was addressed to avery.morgan@example.com. No message was sent.

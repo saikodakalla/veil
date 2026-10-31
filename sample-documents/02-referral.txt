@@ -1,0 +1,32 @@
+SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT
+
+REFERRAL LETTER
+Patient: Jordan Bennett
+DOB: 1971-07-23
+Age: 55
+MRN: TEST-MRN-JB-20593
+Health card: SYNTHETIC-INVALID-ON-JB-0002 (test identifier; not valid)
+Address: 44 Maple Example Crescent, Toronto, ON M4C 0X0
+Phone: (416) 555-0117
+Email: jordan.bennett@example.com
+Visit date: 2026-10-15
+Referring clinician: Dr. Elias Patel
+Clinic: Lakeshore Example Medical Centre
+Receiving hospital: Northstar Fictional Hospital
+Next of kin: Casey Bennett; Phone: (416) 555-0128
+
+Dear Dr. Noor Hassan,
+
+This fictional referral requests review of persistent right shoulder discomfort described by Jordan Bennett after repeated overhead activity. This invented narrative supports local redaction testing.
+
+Vitals: Blood pressure 124/80 mmHg; pulse 78 beats/min; temperature 36.5 C. Clinical observations: Comfortable at rest, alert, and speaking in complete sentences. Shoulder movement is mildly limited by reported discomfort; skin appears intact.
+
+CONTINUATION - SYNTHETIC REFERRAL, PAGE 2
+
+Assessment: A hypothetical musculoskeletal presentation, with no confirmed diagnosis in this sample. Background history and clinical measurements are included as non-identifying content for comparison after redaction.
+
+Please associate this continuation with Jordan Bennett, MRN TEST-MRN-JB-20593. Dr. Elias Patel is listed as the fictional referring clinician. Administrative staff may use the test number (416) 555-0117 to match records; Casey Bennett is the listed next of kin. The hospital name and clinician names are also intentional redaction targets.
+
+Sincerely,
+Dr. Elias Patel
+Lakeshore Example Medical Centre

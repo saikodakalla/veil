@@ -1,0 +1,76 @@
+{
+  "purpose": "Exact synthetic identifiers to review during redaction testing. These are expectations for review, not a model-performance guarantee.",
+  "files": {
+    "01-consultation.txt": {
+      "person": [
+        "Avery Morgan",
+        "Avery's",
+        "Dr. Mira Chen"
+      ],
+      "date_of_birth": [
+        "1984-02-16"
+      ],
+      "age": [
+        "42"
+      ],
+      "medical_record_number": [
+        "TEST-MRN-AM-10482"
+      ],
+      "health_card": [
+        "SYNTHETIC-INVALID-ON-AM-0001"
+      ],
+      "address": [
+        "18 Cedar Example Lane, Toronto, ON M4B 0X0"
+      ],
+      "phone": [
+        "(416) 555-0104"
+      ],
+      "email": [
+        "avery.morgan@example.com"
+      ],
+      "visit_date": [
+        "2026-10-12"
+      ],
+      "organization": [
+        "Harbour Example Family Clinic"
+      ]
+    },
+    "02-referral.txt": {
+      "person": [
+        "Jordan Bennett",
+        "Dr. Elias Patel",
+        "Dr. Noor Hassan",
+        "Casey Bennett"
+      ],
+      "date_of_birth": [
+        "1971-07-23"
+      ],
+      "age": [
+        "55"
+      ],
+      "medical_record_number": [
+        "TEST-MRN-JB-20593"
+      ],
+      "health_card": [
+        "SYNTHETIC-INVALID-ON-JB-0002"
+      ],
+      "address": [
+        "44 Maple Example Crescent, Toronto, ON M4C 0X0"
+      ],
+      "phone": [
+        "(416) 555-0117",
+        "(416) 555-0128"
+      ],
+      "email": [
+        "jordan.bennett@example.com"
+      ],
+      "visit_date": [
+        "2026-10-15"
+      ],
+      "organization": [
+        "Lakeshore Example Medical Centre",
+        "Northstar Fictional Hospital"
+      ]
+    }
+  }
+}

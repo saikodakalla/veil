@@ -1,0 +1,38 @@
+# Personal records and local runtimes must never enter source control.
+.venv/
+.venv-*/
+node_modules/
+frontend/node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+*.log
+*.tsbuildinfo
+.local-data/
+data/
+input/
+output/
+tmp/
+models/
+*.safetensors
+*.bin
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.zip
+!docs/*.png
+!docs/*.jpg
+# frontend/dist is intentionally included so friends don't need Node.
+
+# These exact fixtures were generated and reviewed as fictional test data.
+!sample-documents/01-consultation.pdf
+!sample-documents/02-referral.pdf
+!sample-documents/03-scanned-consultation.png
+!sample-documents/04-scanned-consultation.pdf
